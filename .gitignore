@@ -1,0 +1,5 @@
+.DS_Store
+constants.py
+documents/
+documents_persist/
+__pycache__/constants.cpython-310.pyc
